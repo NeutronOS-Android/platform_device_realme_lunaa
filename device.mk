@@ -53,7 +53,9 @@ PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
-    OPlusSystemUIResTarget
+    OPlusSystemUIResTarget \
+    OPlusWifiResTarget \
+    PixelSetupWizardResTarget
 
 # Sensors
 PRODUCT_PACKAGES += \
