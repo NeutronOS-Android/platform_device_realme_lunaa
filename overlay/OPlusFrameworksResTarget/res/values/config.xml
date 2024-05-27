@@ -483,7 +483,9 @@
           <item>MANUFACTURER:Google</item>
           <item>BRAND:google</item>
           <item>MODEL:Pixel</item>
-          <item>ID:QP1A.191005.007.A3</item>
-          <item>FINGERPRINT:google/sailfish/sailfish:10/QP1A.191005.007.A3/5972272:user/release-keys</item>
+          <item>ID:OPM1.171019.011</item>
+          <item>FINGERPRINT:google/sailfish/sailfish:8.1.0/OPM1.171019.011/4448085:user/release-keys</item>
      </string-array>
+
+     <string name="config_stockFingerprint" translatable="false">realme/RMX3360/RE54ABL1:13/TP1A.220905.001/R.e9a1c9_63b61_5d8e0:user/release-keys</string>
 </resources>
