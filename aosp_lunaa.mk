@@ -33,3 +33,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 BUILD_FINGERPRINT := realme/RMX3360/RE54ABL1:13/TP1A.220905.001/R.136e3d6-af7c-10d436:user/release-keys
 
 TARGET_BUILD_UPDATER := true
+
+# Let's sign the builds with OPlus keys
+TARGET_OPLUS_SIGNING := true
